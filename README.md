@@ -36,6 +36,8 @@ A servo motor that will turn off your switch whenever you turn on the switch!
 
 **a. Make a video of your proto puppet.**
 
+[Rei_Paper Puppet](//youtu.be/bUrvEbyP7as)
+
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
